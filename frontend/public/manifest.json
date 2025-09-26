@@ -1,0 +1,30 @@
+{
+  "short_name": "Al Quran",
+  "name": "Al Quran - Read with Translations & Audio",
+  "description": "Read the Quran with translations, tafsir, and high-quality recitations. Soft 3D neumorphic UI. Offline packs. 100+ reciters.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#065f46",
+  "background_color": "#e0e0e0",
+  "orientation": "portrait-primary",
+  "categories": ["education", "books", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr"
+}

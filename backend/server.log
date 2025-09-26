@@ -1,0 +1,7 @@
+INFO:     Started server process [27789]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:33436 - "GET /api/ HTTP/1.1" 200 OK
+2025-09-27 00:57:11,389 - httpx - INFO - HTTP Request: GET https://api.alquran.cloud/v1/surah "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:38966 - "GET /api/quran/surahs HTTP/1.1" 200 OK
